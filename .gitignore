@@ -1,0 +1,6 @@
+# VTEjs
+node_modules/
+dist/
+tmp/
+.vscode/
+package-lock.json
